@@ -45,7 +45,7 @@ body { background-image:url('ornate_13.jpg');}
   #fortunebox 
 #quote { background:;}
 #source { background:;}
-#crud { background:red; width:150px;}
+#crud { background:#6B8E23; width:150px;}
   #crud a { color:white; text-decoration: none;}
 .clear {clear:both;}
 #pagination {background:; margin-bottom:0px;}
